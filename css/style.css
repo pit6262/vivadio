@@ -542,7 +542,7 @@ button.btn {
   .advertisers .shape-bottom {
     margin-top: -1rem; }
   .advertisers .figure-3 {
-    background-image: url("../img/ad-figure-bg.png");
+    background-image: url("../img/figure-bg.png");
     bottom: auto;
     top: 50%;
     -webkit-transform: translate(0, -50%);
@@ -628,6 +628,9 @@ button.btn {
       margin-bottom: 3rem;
       margin-left: auto;
       margin-right: auto; }
+      .services-block__icon img {
+        max-height: 6rem;
+        max-width: 6rem; }
     .services-block__number {
       display: inline-block;
       color: #fab00b;
@@ -792,7 +795,7 @@ button.btn {
     font-size: 2rem;
     color: #eae6ff; }
   .social__link:hover .icon {
-    color: #5146af; }
+    color: #fca70c; }
 
 /* 7. MEDIA */
 /* ================================================ */
